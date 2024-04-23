@@ -7,7 +7,7 @@ Welcome to the Data Analysis and Exploration chapter! This section provides an o
 
 ## Introduction
 
-Data analysis and exploration are fundamental steps in the data science pipeline. They involve examining, cleaning, transforming, and visualizing data to extract meaningful insights and make informed decisions. Whether you're a beginner or an experienced data scientist, this chapter aims to provide valuable resources and guidance to help you navigate the data analysis process.
+Data analysis and exploration are fundamental steps in the data science pipeline. They involve examining, cleaning, transforming, and visualizing data to extract meaningful insights and make informed decisions.
 
 ## What You'll Find Here
 
